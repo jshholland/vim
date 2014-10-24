@@ -31,3 +31,5 @@ cmap w!! w !sudo tee >/dev/null %
 
 let g:syntastic_python_checkers = ['pyflakes3']
 let g:syntastic_puppet_puppetlint_args = "--no-80chars-check"
+let g:ackprg = 'ag --nogroup --nocolor --column'
+let g:netrw_browsex_viewer='google-chrome'
