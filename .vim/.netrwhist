@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/jholland/p/suvat/suvatlib'
+let g:netrw_dirhist_2='/home/jholland'
+let g:netrw_dirhist_3='/home/jholland/p/suvat/suvatlib'
+let g:netrw_dirhist_4='/home/jholland'
+let g:netrw_dirhist_5='/home/jholland/s/internal/profiles'
+let g:netrw_dirhist_6='/home/jholland/s/internal/profiles/manifests'
+let g:netrw_dirhist_7='/home/jholland/p/beeminder-dow'
