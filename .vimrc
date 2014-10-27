@@ -13,6 +13,7 @@ colorscheme solarized
 set guifont=Source\ Code\ Pro\ 12
 set guioptions-=T
 set number
+set statusline=%<%f\ %h%m%r%{fugitive#statusline()}%=%-14.(%l,%c%V%)\ %P
 
 syntax on
 filetype plugin indent on
