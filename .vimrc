@@ -13,6 +13,7 @@ let g:solarized_termtrans=1
 colorscheme solarized
 set guifont=Source\ Code\ Pro\ 12
 set guioptions-=T
+set guioptions-=m
 set number
 set statusline=%<%f\ %h%m%r%{fugitive#statusline()}%=%-14.(%l,%c%V%)\ %P
 
