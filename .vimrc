@@ -16,6 +16,7 @@ set guioptions-=T
 set guioptions-=m
 set number
 set statusline=%<%f\ %h%m%r%{fugitive#statusline()}%=%-14.(%l,%c%V%)\ %P
+set laststatus=2
 
 syntax on
 filetype plugin indent on
