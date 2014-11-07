@@ -21,6 +21,8 @@ set laststatus=2
 syntax on
 filetype plugin indent on
 
+set formatoptions+=jor
+
 " jump to the last cursor position if known
 autocmd BufReadPost *
   \ if line("'\"") > 1 && line("'\"") <= line("$") |
