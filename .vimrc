@@ -11,7 +11,7 @@ set scrolloff=3
 set background=dark
 let g:solarized_termtrans=1
 colorscheme solarized
-set guifont=Source\ Code\ Pro\ 12
+set guifont=Source\ Code\ Pro\ 11
 set guioptions-=T
 set guioptions-=m
 set number
