@@ -14,6 +14,10 @@ colorscheme solarized
 set guifont=Source\ Code\ Pro\ 11
 set guioptions-=T
 set guioptions-=m
+set guioptions-=r
+set guioptions-=R
+set guioptions-=l
+set guioptions-=L
 set number
 set statusline=%<%f\ %h%m%r%{fugitive#statusline()}%=%-14.(%l,%c%V%)\ %P
 set laststatus=2
