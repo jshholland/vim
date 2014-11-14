@@ -32,3 +32,7 @@ VPC
 DNS
 LDAP
 IRC
+hostname
+SQLite
+PostgreSQL
+MySQL
